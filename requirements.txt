@@ -2,10 +2,7 @@ numpy
 pandas
 matplotlib
 seaborn
-plotly
 scikit-learn
-joblib
-tensorflow         
-imbalanced-learn    
+joblib  
 xgboost             
-ipython
+scikeras
